@@ -10,6 +10,9 @@
         <mxCell id="0rw7Nb8t3lmMk269ofW3-2" value="&lt;font color=&quot;#3333ff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 21px;&quot;&gt;Micro-LED微型化损耗及光电热调控研究路线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="-40" width="440" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0rw7Nb8t3lmMk269ofW3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="640" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
