@@ -64,6 +64,9 @@
         <mxCell id="0rw7Nb8t3lmMk269ofW3-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#CDA2BE;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510.5" y="871" width="644.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0rw7Nb8t3lmMk269ofW3-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="78" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
