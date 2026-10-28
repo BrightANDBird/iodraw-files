@@ -25,8 +25,8 @@
         <mxCell id="ppHbRbDsbqZ0I8BEcsZz-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="827" y="435" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ppHbRbDsbqZ0I8BEcsZz-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;弱光近红外成像的主要限制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="253" width="310" height="40" as="geometry" />
+        <mxCell id="ppHbRbDsbqZ0I8BEcsZz-8" value="&lt;font color=&quot;#18345a&quot; style=&quot;font-size: 24px;&quot;&gt;弱光近红外成像的主要限制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
