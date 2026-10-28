@@ -14,7 +14,7 @@
           <mxGeometry x="548.5" y="350" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ppHbRbDsbqZ0I8BEcsZz-4" value="&lt;font color=&quot;#18345a&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;信噪比下降&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#18345a&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#18345a&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;空间细节退化&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#18345a&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#18345a&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;目标识别不稳定&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf4fb;strokeColor=#9999FF;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="898.5" y="350" width="280" height="150" as="geometry" />
+          <mxGeometry x="903.5" y="350" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ppHbRbDsbqZ0I8BEcsZz-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;拟通过器件测试、成像标定与图像恢复，研究上述影响因素的联系&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#edf4fb;" vertex="1" parent="1">
           <mxGeometry x="230" y="540" width="910" height="40" as="geometry" />
